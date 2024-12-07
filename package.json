@@ -1,0 +1,11 @@
+{
+  "name": "project-n",
+  "version": "1.0.0",
+  "description": "node project",
+  "main": "App.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sajin",
+  "license": "ISC"
+}
